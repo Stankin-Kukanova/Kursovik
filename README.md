@@ -20,7 +20,7 @@
  
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%900.jpg)    
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%900(1).jpg)   
- ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%903.jpg)     
+ ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%903(1).PNG)     
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9031.jpg)     
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9032.jpg)     
  ![none]()     
