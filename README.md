@@ -22,9 +22,14 @@
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%900(1).jpg)   
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%903(1).PNG)     
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9031.jpg)     
- ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9032.jpg)     
- ![none]()     
- ![none]()      
+ ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9032.jpg)      
+ ## Построение ERD-диаграммы для всех потоков     
+ ![none]()    
+## Построение ERD-диаграммы для всех ролей    
+ ![none]()    
+## Построение ERD-диаграммы для всех потоков    
+ ![none]()  
+ ## Диаграмма последовательностей    
  ![none]()     
  
  
