@@ -53,4 +53,4 @@
 
 
 ## Курсовая работа
- ![Текстовая часть]()
+ ![Текстовая часть](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%9A%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0.docx)
