@@ -26,7 +26,7 @@
  ## Построение ERD-диаграммы для всех потоков     
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9D%D0%BE%D0%B2.jpg)    
 ## Построение ERD-диаграммы для всех ролей    
- ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8.PNG)    
+ ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F.PNG)    
 ## Построение ERD-диаграммы для всех модулей   
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%94%D0%BB%D1%8F%20%D0%B2%D1%81%D0%B5%D1%85%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.PNG)  
 
