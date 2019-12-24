@@ -18,8 +18,8 @@
  Точка зрения: проектировщик системы   
  Цель моделирования : показать процесс создания необходимой отчетности    
  
- ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%900%20(2).PNG)    
- ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%900(1).jpg)   
+ ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/46.PNG)    
+ ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/45.PNG)   
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%903(1).PNG)     
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9031%20(1).PNG)     
  ![none](https://github.com/Stankin-Kukanova/Kursovik/blob/master/%D0%9032.jpg)      
